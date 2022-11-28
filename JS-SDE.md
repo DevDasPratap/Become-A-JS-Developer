@@ -4,7 +4,7 @@ It contains Data Structures & Algorithms, functions, async, closure, & hoisting-
 
 DataStructures
 
-[Javascript array: Complete reference.](#Javascript array: Complete reference)
+[Javascript array: Complete reference.](#-Javascript array: Complete reference)
 
 Javascript Objects: Complete Reference.
 Javascript String: Complete Reference.
