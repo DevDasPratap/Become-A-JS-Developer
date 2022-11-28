@@ -3,7 +3,9 @@ This is a curated list of solved problems in JavaScript categorized on the type 
 It contains Data Structures & Algorithms, functions, async, closure, & hoisting-related problems.
 
 DataStructures
+
 [Javascript array: Complete reference.](#Javascript array: Complete reference)
+
 Javascript Objects: Complete Reference.
 Javascript String: Complete Reference.
 Implement Stack data structure in javascript.
