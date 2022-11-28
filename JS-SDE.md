@@ -4,7 +4,7 @@ It contains Data Structures & Algorithms, functions, async, closure, & hoisting-
 
 DataStructures
 
-[Javascript array: Complete reference.](#-Javascript array: Complete reference)
+[Javascript array: Complete reference](#-JavascriptArray-CompleteReference)
 
 Javascript Objects: Complete Reference.
 Javascript String: Complete Reference.
@@ -129,7 +129,7 @@ Day night toggle switch in javascript.
 Roman to numeral converter javascript.
 Tic tac toe game in javascript with bot.
 
-## Javascript array: Complete reference
+## JavascriptArray-CompleteReference
 
 Posted in Arrays, Data-Structures, Javascript
 
